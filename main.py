@@ -1,3 +1,5 @@
+#!/usr/bin/env -S uv run
+
 """
 AWS Route 53 DNS Management CLI
 

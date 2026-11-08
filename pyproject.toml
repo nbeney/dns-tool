@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "boto3>=1.42.30",
+    "botocore[crt]>=1.42.30",
     "rich>=14.2.0",
     "typer>=0.21.1",
 ]
